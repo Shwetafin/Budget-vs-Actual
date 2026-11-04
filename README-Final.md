@@ -58,33 +58,8 @@ To answer the question: "Where did we spend more or less than planned in Q1 FY 2
 
 ## 📁 Dashboard / Output
 
-Waterfall Chart – Budget vs Actual Variance Analysis – Revenue & Cost
-
-
-
-
-
-
-
-
-
-
-
-
-Waterfall Chart - Budget vs Actual Revenue Variance Analysis
-
-```
-📦 Budget_vs_Actual_Q1_FY2026-27/
-├── 📄 Budget_vs_Actual_Q1_FY2026-27.xlsx   ← Main workbook
-│   ├── 📋 Raw_Budget                        ← Source budget data
-│   ├── 📋 Raw_Actuals                       ← Source actuals data
-│   ├── 📊 Variance_Analysis                 ← Line-by-line BvA with commentary
-│   ├── 📊 Summary_Dashboard                 ← Executive summary view
-│   └── ⚙️  PQ_Queries                       ← Power Query transformations
-└── 📄 README.md
-```
-
 **Key Output Tabs:**
+
 - **Budget vs Actual_Rev & Cost** — Full line-item BvA table with absolute & % variance, Favourable/Unfavourable flag using Conditional formatting and a Waterfall chart related to Revenue & Cost
 - **Budget vs Actual_Revenue** — Full line-item BvA table with absolute & % variance, Favourable/Unfavourable flag using Conditional formatting and a Waterfall chart related to Revenue
 
